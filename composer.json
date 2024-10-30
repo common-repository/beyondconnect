@@ -1,0 +1,18 @@
+{
+  "authors": [
+    {
+      "name": "Felix Stadelmann",
+      "email": "fst@beyond-sw.ch",
+      "homepage": "https://beyond-sw.com",
+      "role": "Developer"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "Inc\\": "./inc"
+    }
+  },
+  "require": {
+    "squizlabs/php_codesniffer": "*"
+  }
+}

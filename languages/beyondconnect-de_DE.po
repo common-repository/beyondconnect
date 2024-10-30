@@ -1,0 +1,324 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: beyondConnect\n"
+"POT-Creation-Date: 2020-05-31 09:30+0200\n"
+"PO-Revision-Date: 2020-05-31 09:31+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: de_DE\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.3.1\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: beyondConnect.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.min.js\n"
+"X-Poedit-SearchPathExcluded-1: vendor\n"
+
+#: inc/Api/Callbacks/SettingsCallbacks.php:13
+msgid ""
+"Set the connection details which you get from beyond software to connect "
+"your WordPress with the service"
+msgstr ""
+"Geben Sie die Details zur Verbindung mit den Services von beyond software "
+"ein, die Sie von beyond software erhalten haben."
+
+#: inc/Api/Callbacks/SettingsCallbacks.php:17
+msgid ""
+"Manage the Components of this Plugin by activating the checkboxes from the "
+"following list."
+msgstr ""
+"Aktivieren Sie die Kontrollkästchen um die Komponenten des Plugins zu "
+"verwalten."
+
+#: inc/Api/Callbacks/SettingsCallbacks.php:21
+msgid ""
+"Manage the Shortcodes of this Plugin by activating the checkboxes from the "
+"following list."
+msgstr ""
+"Aktivieren Sie die Kontrollkästchen um die Shortcodes des Plugins zu "
+"verwalten."
+
+#: inc/Api/Widgets/TeachersWidget.php:100
+msgid "Title"
+msgstr "Titel"
+
+#: inc/Api/Widgets/TeachersWidget.php:100
+#: inc/Api/Widgets/TeachersWidget.php:106
+#: inc/Api/Widgets/TeachersWidget.php:112
+#: inc/Api/Widgets/TeachersWidget.php:118
+#: inc/Api/Widgets/TeachersWidget.php:124
+#: inc/Api/Widgets/TeachersWidget.php:130
+#: inc/Api/Widgets/TeachersWidget.php:136
+msgid ":"
+msgstr ":"
+
+#: inc/Api/Widgets/TeachersWidget.php:106
+msgid "Field to Display"
+msgstr "Anzuzeigendes Feld"
+
+#: inc/Api/Widgets/TeachersWidget.php:112
+msgid "Link of Field"
+msgstr "Link des Feldes"
+
+#: inc/Api/Widgets/TeachersWidget.php:118
+msgid "Filter"
+msgstr "Filter"
+
+#: inc/Api/Widgets/TeachersWidget.php:124
+msgid "Top"
+msgstr "Top"
+
+#: inc/Api/Widgets/TeachersWidget.php:130
+msgid "Skip"
+msgstr "Überspringen"
+
+#: inc/Api/Widgets/TeachersWidget.php:136
+msgid "Order by"
+msgstr "Sortieren nach"
+
+#: inc/Base/BaseController.php:25
+msgid "Activate Teachers Widget"
+msgstr "Aktivieren Lehrer Widget"
+
+#: inc/Base/BaseController.php:28
+msgid "Activate Shortcodes Helpers"
+msgstr "Aktivieren Helper Shortcodes"
+
+#: inc/Base/BaseController.php:29
+msgid "Activate Shortcodes Courses"
+msgstr "Aktivieren Kurse Shortcodes"
+
+#: inc/Base/NinjaFormsActions_AddAddress.php:13
+msgid "BC Add Address"
+msgstr "BC Adresse hinzufügen"
+
+#: inc/Base/NinjaFormsActions_AddAddress.php:38
+msgid "Error saving address"
+msgstr "Fehler beim Speichern der Adresse"
+
+#: inc/Base/NinjaFormsActions_AddParent.php:13
+msgid "BC Add Parent"
+msgstr "BC Elternteil hinzufügen"
+
+#: inc/Base/NinjaFormsActions_AddParent.php:30
+msgid "Error saving parent"
+msgstr "Fehler eim Speichern des Elternteils"
+
+#: inc/Base/NinjaFormsActions_AddRegistration.php:13
+msgid "BC Add Registration"
+msgstr "BC Anmeldung hinzufügen"
+
+#: inc/Base/NinjaFormsActions_AddRegistration.php:43
+msgid "Error saving registration"
+msgstr "Fehler beim Speichern der Anmeldung"
+
+#: inc/Base/NinjaFormsAddAddressActionSettings.php:8
+#: inc/Base/NinjaFormsAddRegistrationActionSettings.php:8
+msgid "Linked Fields"
+msgstr "Verknüpfte Felder"
+
+#: inc/Base/NinjaFormsAddAddressActionSettings.php:12
+#: inc/Base/NinjaFormsAddRegistrationActionSettings.php:12
+msgid "Choose linked fields."
+msgstr "Wählen Sie verknüpfte Felder aus."
+
+#: inc/Base/NinjaFormsAddAddressActionSettings.php:13
+#: inc/Base/NinjaFormsAddRegistrationActionSettings.php:13
+msgid ""
+"Linking property to connect with BeyondConnect fieldset. E.g. { name: john "
+"doe }."
+msgstr ""
+"Verknüpfen der Eigenschaft zum Herstellen einer Verbindung mit BeyondConnect "
+"fieldset. Z.B. name: john doe."
+
+#: inc/Base/NinjaFormsFieldSettings.php:9
+msgid "BC Fieldset Property"
+msgstr "BC Fieldset Eigenschaft"
+
+#: inc/Base/NinjaFormsFieldSettings.php:15
+msgid "Courses - ID Title Date"
+msgstr "Kurse - ID Titel Datum"
+
+#: inc/Base/NinjaFormsFieldSettings.php:19
+msgid "Teacher - Firstname"
+msgstr "Lehrer - Vorname"
+
+#: inc/Base/NinjaFormsFieldSettings.php:23
+msgid "Teacher - Firstname Lastname"
+msgstr "Lehrer - Vorname Nachname"
+
+#: inc/Base/NinjaFormsFieldSettings.php:27
+msgid "Teacher - Lastname Firstname"
+msgstr "Lehrer - Nachname Vorname"
+
+#: inc/Base/NinjaFormsFieldSettings.php:31
+msgid "Select the property to connect with BeyondConnect fieldset."
+msgstr ""
+"Wählen Sie die Eigenschaft aus, für die Verbindung mit dem BeyondConnect "
+"Fieldset."
+
+#: inc/Base/NinjaFormsFieldSettings.php:36
+msgid "BC Select Text"
+msgstr "BC Wähle Text"
+
+#: inc/Base/NinjaFormsFieldSettings.php:39
+#: inc/Base/NinjaFormsFields_List.php:85
+msgid "Select item"
+msgstr "Bitte wählen"
+
+#: inc/Base/NinjaFormsFieldSettings.php:40
+msgid "Type the text for ... select item ..."
+msgstr "Text eingeben für  … bitte wählen …"
+
+#: inc/Base/NinjaFormsFields_List.php:22
+msgid "BC List"
+msgstr "BC Liste"
+
+#: inc/Pages/Dashboard.php:29 templates/dashboard.php:3
+msgid "Dashboard"
+msgstr "Kontrollzentrum"
+
+#: inc/Pages/Settings.php:41 inc/Pages/Settings.php:42 templates/settings.php:3
+msgid "Settings"
+msgstr "Einstellungen"
+
+#: inc/Pages/Settings.php:67 templates/settings.php:5
+msgid "Connection Settings"
+msgstr "Verbindungs-Einstellungen"
+
+#: inc/Pages/Settings.php:73 templates/settings.php:6
+msgid "Widgets Settings"
+msgstr "Widgets-Einstellungen"
+
+#: inc/Pages/Settings.php:79 templates/settings.php:7
+msgid "Shortcodes Settings"
+msgstr "Shortcodes Einstellungen"
+
+#: inc/Pages/Settings.php:134
+msgid "Username"
+msgstr "Benutzername"
+
+#: inc/Pages/Settings.php:146
+msgid "Key/Password"
+msgstr "Schlüssel/Passwort"
+
+#: inc/Pages/Shortcodes.php:37 inc/Pages/Shortcodes.php:38
+#: templates/shortcodes.php:3
+msgid "Shortcodes"
+msgstr "Shortcodes"
+
+#: templates/dashboard.php:4
+msgid "Availability Services"
+msgstr "Verfügbarkeit Dienste"
+
+#: templates/dashboard.php:12
+msgid "Status"
+msgstr "Status"
+
+#: templates/dashboard.php:18
+msgid "Entities: not found"
+msgstr "Entitäten nicht gefunden"
+
+#: templates/shortcodes.php:5
+msgid "Available Shortcodes"
+msgstr "Verfügbare Shortcodes"
+
+#. Plugin Name of the plugin/theme
+msgid "beyondConnect"
+msgstr "beyondConnect"
+
+#. Plugin URI of the plugin/theme
+msgid "https://support.beyond-sw.com/hc/de/categories/360002442180"
+msgstr "https://support.beyond-sw.com/hc/de/categories/360002442180"
+
+#. Description of the plugin/theme
+msgid "beyondConnect connects WordPress with the beyond software services."
+msgstr ""
+"beyondConnect verbindet WordPress mit den Services von beyond software."
+
+#. Author of the plugin/theme
+msgid "Felix Stadelmann, beyond software"
+msgstr "Felix Stadelmann, beyond software"
+
+#. Author URI of the plugin/theme
+msgid "https://beyond-sw.com"
+msgstr "https://beyond-sw.com"
+
+#~ msgid "Widget Settings"
+#~ msgstr "Widget Einstellungen"
+
+#, fuzzy
+#~| msgid "Shortcodes Manager"
+#~ msgid "Shortcode Settings"
+#~ msgstr "Shortcodes Manager"
+
+#~ msgid "Widgets Manager"
+#~ msgstr "Widgets-Manager"
+
+#~ msgid "Save Registration - BeyondConnect"
+#~ msgstr "Anmeldung speichern - BeyondConnect"
+
+#~ msgid "Subscriber Email"
+#~ msgstr "Abonnenten-E-Mail"
+
+#~ msgid "Custom Fields"
+#~ msgstr "Benutzerdefinierte Felder"
+
+#~ msgid "Add Tags"
+#~ msgstr "Tags hinzufügen"
+
+#~ msgid "Remove Tags"
+#~ msgstr "Schlagwörter entfernen"
+
+#~ msgid "Prospect"
+#~ msgstr "Prospect"
+
+#~ msgid "Lifetime Value"
+#~ msgstr "Kunden „Lifetime Value“"
+
+#~ msgid "title"
+#~ msgstr "Titel"
+
+#~ msgid "field"
+#~ msgstr "Feld"
+
+#~ msgid "link"
+#~ msgstr "Link"
+
+#~ msgid "filter"
+#~ msgstr "Filter"
+
+#~ msgid "orderby"
+#~ msgstr "Sortieren nach"
+
+#, fuzzy
+#~ msgid "Fehler beim Speichern der Adresse"
+#~ msgstr "Fehler beim Speichern der Adresse"
+
+#, fuzzy
+#~ msgid "Fehler beim Speichern des Elternteils"
+#~ msgstr "Fehler beim Speichern der Adresse"
+
+#, fuzzy
+#~ msgid "Adresse - Nachname1"
+#~ msgstr "Adresse - Nachname1"
+
+#, fuzzy
+#~ msgid "Adresse - Vorname1"
+#~ msgstr "Adresse - Vorname1"
+
+#, fuzzy
+#~ msgid "BC Textbox"
+#~ msgstr "BC Textbox"
+
+#, fuzzy
+#~ msgid "Fehler beim Speichern der Anmeldung"
+#~ msgstr "Fehler beim Speichern der Anmeldung"
